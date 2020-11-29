@@ -1,0 +1,2639 @@
+{
+  "films":[
+    {
+    "id":0,
+    "name" : "Borat Subsequent Moviefilm",
+    "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+    "review" : "827",
+    "rating" : "70",
+    "photos" : {
+      "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","3L1Ml5RWjFVfVq3rQENvgFymT0U", "yp9EzOSCodpMWqdIJ4H5rVY7wxm","6PRm6nkYQCkJlYsSQrveEakcCxj"],
+      "backdrop" : ["kz1eUrnVxwwhiKUwWPz0DSMoR92","2qe0EY9PGMD0nzb8ZHnH1oNxV5i", "2qe0EY9PGMD0nzb8ZHnH1oNxV5i"]
+    },
+    "background" : "hbrXbVoE0NuA1ORoSGGYNASagrl",
+    "photo" : "6agKYU5IQFpuDyUYPu39w7UCRrJ",
+    "info" : {
+      "Released" : "23 October 2020",
+      "Runtime" : "1h 36min",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Comedy"],
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/",
+      "link" : "https://www.amazon.com/dp/B08K47YNJH"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":1,
+      "name" : "batman begins",
+      "desc" : "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City. Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+      "review" : "15,156",
+      "rating" : "90",
+      "photos" : {"poster" : ["1P3ZyEq02wcTMd3iE4ebtLvncvH","4MpN4kIEqUjW8OPtOQJXlTdHiJV", "8RW2runSEc34IwKN2D1aPcJd2UL","jrYbYRMRwCO7vNtTdoqNcgALwAi","udMtQ5TQ0q856XqRyqQxE2F2wTB","ocEnq79nVKZbhKAllMVpxnbAQQ5"],
+        "backdrop" : ["skov80os5kaSL1rHFAtYLv7w2bP","v5H01hnfZd9a3WPkKanW9hptP2", "oEpyiP03VhiZeq8FkZiRqfPPhSL","rys8jNeaTHFhjj5UkY2Wt0Bu6iI"]},
+      "background" : "lh5lbisD4oDbEKgUxoRaZU8HVrk",
+      "photo" : "1P3ZyEq02wcTMd3iE4ebtLvncvH",
+      "info" : {
+        "Released" : "10 June 2005",
+        "Runtime" : "2h 20min",
+        "Director" : "Christopher Nolan",
+        "Budget" : "150,000,000",
+        "Reventue": "374,218,673",
+        "Genre" :  ["Action","Crime","Drama"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "DC Comics, Legendary Pictures, DC Entertainment, Syncopy, Patalex III Productions Limited, Warner Bros. Pictures"
+      },
+      "social":{
+        "imdb" : "https://www.imdb.com/",
+        "link" : "https://www.warnerbros.com/movies/batman-begins/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Now Playing Movies",
+      "page":"movies"
+    },
+    {
+    "id":2,
+    "name" : "Cadaver",
+    "desc" : "In the aftermath of a nuclear disaster, a starving family find hope in a charismatic hotel owner. Lured by the prospect of a free dinner, they discover that the evening's entertainment blurs the lines between performance and reality. Will they wind up the spectators or the spectacle?",
+    "review" : "177",
+    "rating" : "55",
+    "photos" : {"poster" : ["hozgnKQmG2bpe22rQ1y432TgzEv","hozgnKQmG2bpe22rQ1y432TgzEv", "kBIUqBVM9nl3UohvLWBOMvvYewT"],
+      "backdrop" : ["mMelqs1OhHyX0CpdhD51EUkhJbF","mMelqs1OhHyX0CpdhD51EUkhJbF", "mMelqs1OhHyX0CpdhD51EUkhJbF"]},
+    "background" : "pgBXz60Rf4zUaXleeIfR0ukIDhS",
+    "photo" : "hozgnKQmG2bpe22rQ1y432TgzEv",
+    "info" : {
+      "Released" : "22 October 2020",
+      "Runtime" : "1h 26min",
+      "Director" : "Jarand Herdal",
+      "Genre" : ["Drama","Horror","Thriller"],
+      "Status" : "Released",
+      "Language" : "Norwegian",
+      "Production" : "Motion Blur, SF Studios"
+    },
+    "social":{
+      "imdb" : "https://www.imdb.com/",
+      "link" : "http://www.netflix.com/title/81203335"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+    "id":3,
+    "name" : "Eli",
+    "desc" : "A boy named Eli with a rare autoimmune disorder is confined to a special experimental clinic for his treatment. He soon begins experiencing supernatural forces, turning the supposedly safe facility into a haunted prison for him and his fellow patients.",
+    "review" : "851",
+    "rating" : "55",
+    "photos" :{"poster" : ["bIID8uZTYNnSMfWwaIluRTzaZQL","ja9iJTb3eqUG9N94qoTAWwwhUl4", "fXBCWyD0GCqCi81JeqJVsllBj3h","bLTTqDwIt1N3Vt95aFRE8aQM7Gv","bIID8uZTYNnSMfWwaIluRTzaZQL"],"background" : ["a6WTWBgM7O8wEmCJuGLpPM15agH"]}
+    ,
+    
+    "photo" : "bIID8uZTYNnSMfWwaIluRTzaZQL",
+    "info" : {
+      "Released" : "18 October 2019",
+      "Runtime" : "1h 38min",
+      "Director" : "Ciarán Foy",
+      "Genre" : ["Horror"],
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Bellevue Productions, Paramount, Paramount Players, Intrepid Pictures, MTV Films"
+    },
+    "social":{
+      "imdb" : "https://www.imdb.com/",
+      "link" : "http://www.netflix.com/title/81203335"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":4,
+      "name" : "Fear the Walking Dead",
+      "desc" : "What did the world look like as it was transforming into the horrifying apocalypse depicted in The Walking Dead? This spin-off set in Los Angeles, following new characters as they face the beginning of the end of the world, will answer that question.",
+      "review" : "2,556",
+      "rating" : "85",
+      "photos" :{"poster" : ["aOdTWn8dXlS0tA5xl0ZBr8Ws15R","lZMb3R3e5vqukPbeDMeyYGf2ZNG", "wGFUewXPeMErCe2xnCmmLEiHOGh","gpX9L4rMMlc2PG2JqTjnRJKnKA2"],
+        "backdrop" : ["xYPgACsiHfRcVt0MsLMkHyL3Wx6","mthi1nMQSY7D9lo5tnuBvYofYE","lsf32hg17t1ju75g6DKOk1IQu2W", "mthi1nMQSY7D9lo5tnuBvYofYE"]}
+      ,
+      "background" : "58PON1OrnBiX6CqEHgeWKVwrCn6",
+      "photo" : "wGFUewXPeMErCe2xnCmmLEiHOGh",
+      "info" : {
+        "First Aired" : "23 August 2015",
+        "Last Aired":"8 November 2020",
+        "Runtime" : "43m, 60m",
+        "Creator": ["Dave Erickson","Robert Kirkman"],
+        "Director" : "Jason Woliner",
+        "Genre" : ["Action & Adventure","Drama"],
+        "Status" : "Returning Series",
+        "Language" : "English",
+        "Network" : "AMC"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":5,
+      "name" : "His House",
+      "desc" : "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" :{"poster" : ["s6XxJEe4ovVTMgmGmKeO87OFANU","s6XxJEe4ovVTMgmGmKeO87OFANU"]}
+      ,
+      "background" : "6aVB2B2GDc4EuNinHgoBgtkuHQz",
+      "photo" : "s6XxJEe4ovVTMgmGmKeO87OFANU",
+      "info" : {
+        "Released" : "27 January 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Remi Weekes",
+        "Genre" : ["Drama","Horror","Thriller"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "New Regency Pictures, BBC Films, Starchild Pictures, Vertigo Entertainment"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":6,
+      "name" : "Spider Man",
+      "desc" : "After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers to become the Amazing superhero known as Spider-Man.",
+      "review" : "12,573",
+      "rating" : "85",
+      "photos" :{ "poster" : ["wZGlaMxBAjCIYLzyDWvocaoNooZ","jXGvLkK4xobYDq7PLZZFYPTSD1P","gh4cZbhZxyTbgxQPxD0dOudNPTn", "y0nlzsiXmyvjUS0FKtT5O7cFa8W","jXGvLkK4xobYDq7PLZZFYPTSD1P"],
+        "backdrop" : ["no2cllXSRA56LPipQnuPlg3RuTL","sNKfGIGK6ZPxa9FZ1kGxzxifxEK","qGjChVF43jXhANS7qsWFm0zil5e", "sNKfGIGK6ZPxa9FZ1kGxzxifxEK"]}
+     ,
+      "background" : "no2cllXSRA56LPipQnuPlg3RuTL",
+      "photo" : "gh4cZbhZxyTbgxQPxD0dOudNPTn",
+      "info" : {
+        "Released" : "1 May 2002",
+        "Runtime" : "2h 1min",
+        "Director" : "Sam Raimi",
+        "Budget":"139,000,000",
+        "Revenue":"821,708,551",
+        "Genre" : ["Fantasy","Action"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Marvel Enterprises, Columbia Pictures, Sony Pictures, Laura Ziskin Productions"
+      },
+      "social":{
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":7,
+      "name" : "Superman Unbound",
+      "desc" : "Based on the Geoff Johns/Gary Frank 2008 release Superman: Brainiac, Superman: Unbound finds the horrific force responsible for the destruction of Krypton (Brainiac) descending upon Earth. Brainiac has crossed the universe, collecting cities from interesting planets, Kandor included, and now the all-knowing, ever-evolving android has his sights fixed on Metropolis. Superman must summon all of his physical and intellectual resources to protect his city, the love of his life, and his newly-arrived cousin, Supergirl.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" :{"poster" : ["5fyZJuLbPOc0DHL3euK0w8hIc00","5fyZJuLbPOc0DHL3euK0w8hIc00", "5fyZJuLbPOc0DHL3euK0w8hIc00","5fyZJuLbPOc0DHL3euK0w8hIc00"] }
+      ,
+      "background" : "iepqCJMc5MIVrHbkMbkxppSithj",
+      "photo" : "5fyZJuLbPOc0DHL3euK0w8hIc00",
+      "info" : {
+        "Released" : "23 April 2013",
+        "Runtime" : "1h 15min",
+        "Director" : "James Tucker",
+        "Revenue" :"2,915,767",
+        "Genre" : [" Action","Animation","Adventure"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "DC Comics, Warner Premiere, DC Entertainment, Warner Bros. Animation"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":8,
+      "name" : "The Mandalorian",
+      "desc" : "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+      "review" : "2,262",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "9ijMGlJKqcslswWUzTEwScm82Gs",
+      "photo" : "sWgBv7LV2PRoQgkxwlibdGXKz1S",
+      "info" : {
+        "First Aired" : "12 November 2019",
+        "Last Aired" : "13 November 2020",
+        "Runtime" : "35m, 48m",
+        "Creator" : "Jon Favreau",
+        "Genre" :  ["Sci-Fi & Fantasy","Action & Adventure","Western"],
+        "Seasons": 2,
+        "Status":"Returning Series",
+        "Language" : "English",
+        "Network" : "Disney+"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":9,
+      "name" : "Barbarians",
+      "desc" : "Three people's fates are interwoven in the Battle of the Teutoburg Forest in 9 A.D., during which Germanic warriors halt the spread of the Roman Empire.",
+      "review" : "557",
+      "rating" : "70",
+      "photos":{"poster" : ["trfHliK2hhw2xOJVztHqKylyzrD","hG8odytWLzUlYRJ5KWhuCFvWK8X"]},
+      "background" : "iU955nBcsc5Zr5e31eWU2xKVqHk",
+      "photo" : "trfHliK2hhw2xOJVztHqKylyzrD",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "45m",
+        "Director" : ["Arne Nolting","Andreas Heckmann"],
+        "Genre" : ["Action & Adventure","Drama"],
+        "Status" : "Released",
+        "Language" : "German",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+    "id":10,
+    "name" : "Westworld",
+    "desc" : "A dark odyssey about the dawn of artificial consciousness and the evolution of sin. Set at the intersection of the near future and the reimagined past, it explores a world in which every human appetite, no matter how noble or depraved, can be indulged.",
+    "review" : "557",
+    "rating" : "70",
+    "photos":{ "poster" : ["y55oBgf6bVMI7sFNXwJDrSIxPQt","6aj09UTMQNyfSfk0ZX8rYOEsXL2", "r17jraxo25iOTsENfCzXddOLlRE","ydj14yASrmG3CxkDoZr7YK4xbHg","y55oBgf6bVMI7sFNXwJDrSIxPQt","6aj09UTMQNyfSfk0ZX8rYOEsXL2", "r17jraxo25iOTsENfCzXddOLlRE","ydj14yASrmG3CxkDoZr7YK4xbHg"],
+      "backdrop" : ["mNKHPHh0VKgbB7aaVoAG7ktXQl3","mNKHPHh0VKgbB7aaVoAG7ktXQl3", "508LZMERHPfU6KQcIKmyz5QqxMZ","hJBgmsVzhiINh2Jx9Ih90HWf8Rs","v6gia5Sv2QI8zVht9v6SmPw845o","v6gia5Sv2QI8zVht9v6SmPw845o"]}
+   ,
+    "background" : "yGNnjoIGOdQy3douq60tULY8teK",
+    "photo" : "y55oBgf6bVMI7sFNXwJDrSIxPQt",
+    "info" : {
+      "Released" : "2 October 2016",
+      "Runtime" : "60m",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Western","Science Fiction"],
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+    "id":11,
+    "name" : "The Walking Dead: World Beyond",
+    "desc" : "A heroic group of teens sheltered from the dangers of the post-apocalyptic world receive a message that inspires them to leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+    "review" : "557",
+    "rating" : "70",
+    "photos":{
+    "poster" : ["z31GxpVgDsFAF4paZR8PRsiP16D","z31GxpVgDsFAF4paZR8PRsiP16D", "8zu2ESmRrCsZrdG1t2sPqXk9tkF","8zu2ESmRrCsZrdG1t2sPqXk9tkF"],
+    "backdrop" : ["lCodBIAmyzjfKRhfhBltWc0yGYS"]},
+    "background" : "pLVrN9B750ehwTFdQ6n3HRUERLd",
+    "photo" : "z31GxpVgDsFAF4paZR8PRsiP16D",
+    "info" : {
+      "Released" : "8 November 2020",
+      "Runtime" : "60m",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Mystery","Family"],
+      "Status" : "Released",
+      "Episodes":10,
+      "Seasons":1,
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "facebook": "https://www.facebook.com/TWDWorldBeyond",
+      "link":"https://www.amc.com/shows/the-walking-dead-world-beyond",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Top Rated Movies",
+    "page":"movies"
+    },
+    {
+      "id":12,
+      "name" : "The Good Doctor",
+      "desc" : "A young surgeon with Savant syndrome is recruited into the surgical unit of a prestigious hospital. The question will arise: can a person who doesn't have the ability to relate to people actually save their lives?",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "iDbIEpCM9nhoayUDTwqFL1iVwzb",
+      "photo" : "6tfT03sGp9k4c0J3dypjrI8TSAI",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    },
+    {
+      "id":13,
+      "name" : "Game of Thrones",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "suopoADq0k8YZr4dQXcU6pToj6s",
+      "photo" : "u3bZgnGQ9T01sWNhyveQz0wH0Hl",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : "Comedy",
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    },
+    {
+      "id":14,
+      "name" : "Fargo",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "xcJLhsFGVC4LVvucSqVXks2mnUJ",
+      "photo" : "9ZIhl17uFlXCNUputSEDHwZYIEJ",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":15,
+      "name" : "The Right Stuff",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "nYmhEtiesCu6SAZ01AQmNDDMRMH",
+      "photo" : "uq2dlPtINOcJQ2tdddzuVNEm9NC",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+      "page":"movies"
+    },
+    {
+      "id":16,
+      "name" : "Borat Subsequent Moviefilm",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ"],
+        "backdrop" : ["Subsequent_one","Subsequent_two", "Subsequent_three"]
+      },
+      "background" : "itsgqrk6WgKwKOsNLwsQD9WUihZ",
+      "photo" : "fCEc46PoQ5uZlX4917jEYY3Ohoh",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+      "page":"tv"
+    },
+    {
+      "id":17,
+      "name" : "The Liberator",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "uU23hb1c3LRqszBmBftLc2cMhbx",
+      "photo" : "kivHJpsGFWgqnDMRDnnpOSgLD1s",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+      "page":"tv"
+    },
+    {
+    "id":18,
+    "name" : "S.W.A.T.",
+    "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+    "review" : "557",
+    "rating" : "70",
+    "photos" : {
+      "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+      "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+    },
+    "background" : "gJSqr2prvTegFbL0cEWK9Qti3Vs",
+    "photo" : "ushSkKB8aeLsyyW2c7S7CCmEmRA",
+    "info" : {
+      "Released" : "23 October 2020",
+      "Runtime" : "1h 36min",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Animation","Family"],
+      "Seasons":4,
+      "Episodes":59,
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Popular",
+    "page":"tv"
+    },
+    {
+    "id":19,
+    "name" : "EliMoonbase 8",
+    "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+    "review" : "557",
+    "rating" : "70",
+    "photos" : {
+      "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+      "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+    },
+    "background" : "AbnDD0jfOGgtVfMQSwFWs33HdrF",
+    "photo" : "yaKYtbkozOUFs83cKayXYu3ikrh",
+    "info" : {
+      "Released" : "23 October 2020",
+      "Runtime" : "1h 36min",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Animation","Family"],
+      "Seasons":4,
+      "Episodes":59,
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Popular",
+    "page":"tv"
+    },
+    {
+      "id":20,
+      "name" : "Breaking Bad",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "tsRy63Mu5cu8etL1X7ZLyf7UP1M",
+      "photo" : "ggFHVNu6YYI5L9pCfOacjizRGt",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+    "page":"tv"
+    },
+    {
+      "id":21,
+      "name" : "Vikings",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "aq2yEMgRQBPfRkrO0Repo2qhUAT",
+      "photo" : "ff1zhqvwfS5HvRNcA5UFrH0PA2q",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+    "page":"tv"
+    },
+    {
+      "id":22,
+      "name" : "It",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "1ot3DeWBHaI3cbfQtqZqOI1VoPI",
+      "photo" : "4ybQ6gopB3H3cu0seVZLznDnIKo",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+    "page":"tv"
+    },
+    {
+      "id":23,
+      "name" : "Pokémon",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "tvjCdVRkaaab2ezM9BctkAOXeyW",
+      "photo" : "rOuGm07PxBhEsK9TaGPRQVJQm1X",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Popular",
+    "page":"tv"
+    },
+    {
+      "id":24,
+      "name" : "Suburra: Blood on Rome",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ"]
+      },
+      "background" : "2MLA8lpII4CVNQV7pYGyZRRip67",
+      "photo" : "ri1WF0vxDfJcUW8iNUOu8OsmVeJ",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+      "id":25,
+      "name" : "Barbarians",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "516Z3SgUBZFlBQMEggrGt73sE4p",
+      "photo" : "26LUgGpe8OBsKq6ekkz6htDGO3b",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+    "id":26,
+    "name" : "Attack on Titan",
+    "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+    "review" : "557",
+    "rating" : "70",
+    "photos" : {
+      "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+      "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+    },
+    "background" : "2b0s0iMNl9CgrCMz0VGKlMw3vZw",
+    "photo" : "hqRb1wyIVsaMukZElPBUXoJPqrR",
+    "info" : {
+      "Released" : "23 October 2020",
+      "Runtime" : "1h 36min",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Animation","Family"],
+      "Seasons":4,
+      "Episodes":59,
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+    "id":27,
+    "name" : "Arrow",
+    "desc" : "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+    "review" : "557",
+    "rating" : "60",
+    "photos" : {
+      "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+      "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+    },
+    "background" : "pLVrN9B750ehwTFdQ6n3HRUERLd",
+    "photo" : "gKG5QGz5Ngf8fgWpBsWtlg5L2SF",
+    "info" : {
+      "Released" : "23 October 2020",
+      "Runtime" : "1h 36min",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Animation","Family"],
+      "Seasons":4,
+      "Episodes":59,
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : true,
+    "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+      "id":28,
+      "name" : "Soulmates",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "75",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "60Qyi605uZLkptmAx5GkDk6nFep",
+      "photo" : "rh4Rx4q9TtHyaqDFwORKnHNGyIq",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+      "id":29,
+      "name" : "PAW Patrol",
+      "desc" : "A group of six rescue dogs is led by a tech-savvy boy named Ryder. The heroic pups, who believe no job is too big, no pup is too small, work together to protect the community. Among the members of the group are firedog Marshall, police pup Chase, and fearless Skye. All of the animals have special skills, gadgets and vehicles that help them on their rescue missions. Whether rescuing a kitten or saving a train from a rockslide, the PAW Patrol is always up for the challenge while also making sure there's time for a game or a laugh.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "7OrV2aAH5Yp7hA9zCCvUloLvZtl",
+      "photo" : "vN9BE385YKPgumoyrOd8Z8yh6Nn",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+      "id":30,
+      "name" : "Mr. Robot",
+      "desc" : "A contemporary and culturally resonant drama about a young programmer, Elliot, who suffers from a debilitating anti-social disorder and decides that he can only connect to people by hacking them. He wields his skills as a weapon to protect the people that he cares about. Elliot will find himself in the intersection between a cybersecurity firm he works for and the underworld organizations that are recruiting him to bring down corporate America.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "4n0TZfTUSUELqRrOA8sZKWs9bWU",
+      "photo" : "oKIBhzZzDX07SoE2bOLhq2EE8rf",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+    "page":"tv"
+    },
+    {
+      "id":31,
+      "name" : "Gold Rush",
+      "desc" : "Follow the lives of ambitious miners as they head north in pursuit of gold. With new miners, new claims, new machines and new ways to pull gold out of the ground, the stakes are higher than ever. But will big risks lead to an even bigger pay out?",
+      "review" : "557",
+      "rating" : "65",
+      "photos" : {
+        "poster" : ["6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ", "6agKYU5IQFpuDyUYPu39w7UCRrJ","6agKYU5IQFpuDyUYPu39w7UCRrJ","nG4T9HYGfyVryYqVXEesMYj3PHt","6agKYU5IQFpuDyUYPu39w7UCRrJ","kkXe1qixFvNkyF3FvrbMjmIcsKC"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "q6KX0rtjiFpXHRanPKNHFuKCK6I",
+      "photo" : "t7sj18MvyNEKcPEssw3LngX6Ewl",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Top Rated",
+      "page":"tv"
+    },
+    {
+      "id":32,
+      "name" : "Spider-Man: Homecoming",
+      "desc" : "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+      "review" : "15,122",
+      "rating" : "89",
+      "photos" : {
+        "poster" : ["c24sv2weTHPsmDa7jEMN0m2P3RT","c24sv2weTHPsmDa7jEMN0m2P3RT", "c24sv2weTHPsmDa7jEMN0m2P3RT","c24sv2weTHPsmDa7jEMN0m2P3RT"],
+        "backdrop" : ["yjNhOJccI1FQhQm2ia4zBfkFHL3","yjNhOJccI1FQhQm2ia4zBfkFHL3", "yjNhOJccI1FQhQm2ia4zBfkFHL3"]
+      },
+      "background" : "vc8bCGjdVp0UbMNLzHnHSLRbBWQ",
+      "photo" : "c24sv2weTHPsmDa7jEMN0m2P3RT",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Comedy"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/",
+        "link" : "https://www.amazon.com/dp/B08K47YNJH"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : true,
+      "display":"Upcoming Movies",
+      "page":"movies"
+    },
+    {
+      "id":33,
+      "name" : "The Incredible Hulk",
+      "desc" : "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+      "review" : "15,156",
+      "rating" : "90",
+      "photos" : {"poster" : ["2nBpExDoInX3VreBsIm9qOTqXs8","2nBpExDoInX3VreBsIm9qOTqXs8", "2nBpExDoInX3VreBsIm9qOTqXs8","2nBpExDoInX3VreBsIm9qOTqXs8","2nBpExDoInX3VreBsIm9qOTqXs8","2nBpExDoInX3VreBsIm9qOTqXs8"],
+        "backdrop" : ["nMdzpEGzPHDzHYwSnpn1pIeRANB","nMdzpEGzPHDzHYwSnpn1pIeRANB", "nMdzpEGzPHDzHYwSnpn1pIeRANB","nMdzpEGzPHDzHYwSnpn1pIeRANB"]},
+      "background" : "nMdzpEGzPHDzHYwSnpn1pIeRANB",
+      "photo" : "2nBpExDoInX3VreBsIm9qOTqXs8",
+      "info" : {
+        "Released" : "10 June 2005",
+        "Runtime" : "2h 20min",
+        "Director" : "Christopher Nolan",
+        "Budget" : "150,000,000",
+        "Reventue": "374,218,673",
+        "Genre" :  ["Action","Crime","Drama"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "DC Comics, Legendary Pictures, DC Entertainment, Syncopy, Patalex III Productions Limited, Warner Bros. Pictures"
+      },
+      "social":{
+        "imdb" : "https://www.imdb.com/",
+        "link" : "https://www.warnerbros.com/movies/batman-begins/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Upcoming Movies",
+      "page":"movies"
+    },
+    {
+    "id":34,
+    "name" : "Sherlock Holmes: A Game of Shadows",
+    "desc" : "There is a new criminal mastermind at large (Professor Moriarty) and not only is he Holmes’ intellectual equal, but his capacity for evil and lack of conscience may give him an advantage over the detective.",
+    "review" : "177",
+    "rating" : "55",
+    "photos" : {"poster" : ["y1MYZkwhZK6L0Jy4YMuPktzDOfn","y1MYZkwhZK6L0Jy4YMuPktzDOfn", "y1MYZkwhZK6L0Jy4YMuPktzDOfn"],
+      "backdrop" : ["30in6H2ZwwHVkfi1m8AE447qPGG","30in6H2ZwwHVkfi1m8AE447qPGG", "30in6H2ZwwHVkfi1m8AE447qPGG"]},
+    "background" : "xxaFdlPEkVuMMgcbfrXECGGDMdz",
+    "photo" : "y1MYZkwhZK6L0Jy4YMuPktzDOfn",
+    "info" : {
+      "Released" : "22 October 2020",
+      "Runtime" : "1h 26min",
+      "Director" : "Jarand Herdal",
+      "Genre" : ["Drama","Horror","Thriller"],
+      "Status" : "Released",
+      "Language" : "Norwegian",
+      "Production" : "Motion Blur, SF Studios"
+    },
+    "social":{
+      "imdb" : "https://www.imdb.com/",
+      "link" : "http://www.netflix.com/title/81203335"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : false,
+    "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+    "id":35,
+    "name" : "Iron Man 2",
+    "desc" : "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+    "review" : "851",
+    "rating" : "95",
+    "photos" :{"poster" : ["6WBeq4fCfn7AN0o21W9qNcRF2l9","6WBeq4fCfn7AN0o21W9qNcRF2l9", "6WBeq4fCfn7AN0o21W9qNcRF2l9","6WBeq4fCfn7AN0o21W9qNcRF2l9","6WBeq4fCfn7AN0o21W9qNcRF2l9"]},
+    "background" : "jesRqfL9v6HNnowe795xjmuKUXl",
+    "photo" : "6WBeq4fCfn7AN0o21W9qNcRF2l9",
+    "info" : {
+      "Released" : "18 October 2019",
+      "Runtime" : "1h 38min",
+      "Director" : "Ciarán Foy",
+      "Budget":"200,000,000",
+      "Genre" : ["Horror"],
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Bellevue Productions, Paramount, Paramount Players, Intrepid Pictures, MTV Films"
+    },
+    "social":{
+      "imdb" : "https://www.imdb.com/",
+      "link" : "http://www.netflix.com/title/81203335"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : false,
+    "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":36,
+      "name" : "The Judge",
+      "desc" : "A successful lawyer returns to his hometown for his mother's funeral only to discover that his estranged father, the town's judge, is suspected of murder.",
+      "review" : "2,556",
+      "rating" : "85",
+      "photos" :{"poster" : ["tefUxj4Gg9hgQNgfEYd7kJQrIlD","tefUxj4Gg9hgQNgfEYd7kJQrIlD", "tefUxj4Gg9hgQNgfEYd7kJQrIlD","tefUxj4Gg9hgQNgfEYd7kJQrIlD"],
+        "backdrop" : ["lbiQLKU4GA02F5HGlbQBC2JhUQi","lbiQLKU4GA02F5HGlbQBC2JhUQi","lbiQLKU4GA02F5HGlbQBC2JhUQi", "lbiQLKU4GA02F5HGlbQBC2JhUQi"]}
+      ,
+      "background" : "9W02KZYKLoINpqpJ2yv8ATxR1AK",
+      "photo" : "tefUxj4Gg9hgQNgfEYd7kJQrIlD",
+      "info" : {
+        "First Aired" : "23 August 2015",
+        "Last Aired":"8 November 2020",
+        "Runtime" : "43m, 60m",
+        "Budget":"50,000,000",
+        "Creator": ["Dave Erickson","Robert Kirkman"],
+        "Director" : "Jason Woliner",
+        "Genre" : ["Action & Adventure","Drama"],
+        "Status" : "Returning Series",
+        "Language" : "English",
+        "Network" : "AMC"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":37,
+      "name" : "Tropic Thunder",
+      "desc" : "Vietnam veteran 'Four Leaf' Tayback's memoir, Tropic Thunder, is being made into a film, but Director Damien Cockburn can’t control the cast of prima donnas. Behind schedule and over budget, Cockburn is ordered by a studio executive to get filming back on track, or risk its cancellation. On Tayback's advice, Cockburn drops the actors into the middle of the jungle to film the remaining scenes but, unbeknownst to the actors and production, the group have been dropped in the middle of the Golden Triangle, the home of heroin-producing gangs.",
+      "review" : "4,029",
+      "rating" : "70",
+      "photos" :{"poster" : ["zAurB9mNxfYRoVrVjAJJwGV3sPg","zAurB9mNxfYRoVrVjAJJwGV3sPg"]}
+      ,
+      "background" : "1riTqK5ouEgjTs69MVm0F8dXilZ",
+      "photo" : "zAurB9mNxfYRoVrVjAJJwGV3sPg",
+      "info" : {
+        "Released" : "27 January 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Remi Weekes",
+        "Genre" : ["Drama","Horror","Thriller"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "New Regency Pictures, BBC Films, Starchild Pictures, Vertigo Entertainment"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":38,
+      "name" : "Zodiac",
+      "desc" : "The true story of the investigation of the Zodiac Killer, a serial killer who terrified the San Francisco Bay Area, taunting police with his ciphers and letters. The case becomes an obsession for three men as their lives and careers are built and destroyed by the endless trail of clues.",
+      "review" : "12,573",
+      "rating" : "85",
+      "photos" :{ "poster" : ["6YmeO4pB7XTh8P8F960O1uA14JO","6YmeO4pB7XTh8P8F960O1uA14JO","6YmeO4pB7XTh8P8F960O1uA14JO", "6YmeO4pB7XTh8P8F960O1uA14JO","6YmeO4pB7XTh8P8F960O1uA14JO"],
+        "backdrop" : ["41pke1VcV9rI94RmlThLiceIW8O","41pke1VcV9rI94RmlThLiceIW8O","41pke1VcV9rI94RmlThLiceIW8O", "41pke1VcV9rI94RmlThLiceIW8O"]}
+      ,
+      "background" : "jP2htGBHE7vKq4MLeC75UeC0sZH",
+      "photo" : "6YmeO4pB7XTh8P8F960O1uA14JO",
+      "info" : {
+        "Released" : "2 March 2007",
+        "Runtime" : "2h 1min",
+        "Director" : "Sam Raimi",
+        "Budget":"65,000,000",
+        "Revenue":"821,708,551",
+        "Genre" : ["Fantasy","Action"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Marvel Enterprises, Columbia Pictures, Sony Pictures, Laura Ziskin Productions"
+      },
+      "social":{
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":39,
+      "name" : "Dolittle",
+      "desc" : "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+      "review" : "2,184",
+      "rating" : "70",
+      "photos" :{"poster" : ["uoplwswBDy7gsOyrbGuKyPFoPCs","uoplwswBDy7gsOyrbGuKyPFoPCs", "uoplwswBDy7gsOyrbGuKyPFoPCs","uoplwswBDy7gsOyrbGuKyPFoPCs"] }
+      ,
+      "background" : "xcUf6yIheo78btFqihlRLftdR3M",
+      "photo" : "uoplwswBDy7gsOyrbGuKyPFoPCs",
+      "info" : {
+        "Released" : "23 April 2013",
+        "Runtime" : "1h 15min",
+        "Director" : "James Tucker",
+        "Revenue" :"2,915,767",
+        "Genre" : [" Action","Animation","Adventure"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "DC Comics, Warner Premiere, DC Entertainment, Warner Bros. Animation"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":40,
+      "name" : "Transformers: Dark of the Moon",
+      "desc" : "Sam Witwicky takes his first tenuous steps into adulthood while remaining a reluctant human ally of Autobot-leader Optimus Prime. The film centers around the space race between the USSR and the USA, suggesting there was a hidden Transformers role in it all that remains one of the planet's most dangerous secrets.",
+      "review" : "5,993",
+      "rating" : "79",
+      "photos" : {
+        "poster" : ["yUqm7eke9oL0ZmKJfgIJLs8WNuJ","yUqm7eke9oL0ZmKJfgIJLs8WNuJ", "yUqm7eke9oL0ZmKJfgIJLs8WNuJ","yUqm7eke9oL0ZmKJfgIJLs8WNuJ","orGEeWMI3h6AaWnYHWHCWZ1rvcC","orGEeWMI3h6AaWnYHWHCWZ1rvcC","orGEeWMI3h6AaWnYHWHCWZ1rvcC"],
+        "backdrop" : ["wsvuU3npjSTgSHT2JMuRhfsdVuI","wsvuU3npjSTgSHT2JMuRhfsdVuI", "wsvuU3npjSTgSHT2JMuRhfsdVuI","wsvuU3npjSTgSHT2JMuRhfsdVuI","wsvuU3npjSTgSHT2JMuRhfsdVuI"]
+      },
+      "background" : "af2duhAt9evRkxzkhxjgQ1naOM6",
+      "photo" : "yUqm7eke9oL0ZmKJfgIJLs8WNuJ",
+      "info" : {
+        "First Aired" : "12 November 2019",
+        "Last Aired" : "13 November 2020",
+        "Runtime" : "2h 34min",
+        "Creator" : "Jon Favreau",
+        "Budget":"195,000,000",
+        "Revenue": "1,123,794,079",
+        "Genre" :  ["Sci-Fi & Fantasy","Action & Adventure","Western"],
+        "Seasons": 2,
+        "Status":"Returning Series",
+        "Language" : "English",
+        "Network" : "Disney+"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":41,
+      "name" : "Frankenweenie",
+      "desc" : "When a car hits young Victor's pet dog Sparky, Victor decides to bring him back to life the only way he knows how. But when the bolt-necked monster wreaks havoc and terror in the hearts of Victor's neighbors, he has to convince them that Sparky's still the good, loyal friend he was.",
+      "review" : "2,261",
+      "rating" : "78",
+      "photos":{"poster" : ["yGjVbLVdZRBlZTTQVBsj2KUjL1s","yGjVbLVdZRBlZTTQVBsj2KUjL1s","sK3RIyOUi369HcvyVgeOIUuubVe","sK3RIyOUi369HcvyVgeOIUuubVe"]},
+      "background" : "zu8QKHnL9a3bI82p8wTEmvvd5QC",
+      "photo" : "yGjVbLVdZRBlZTTQVBsj2KUjL1s",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "45m",
+        "Budget":"39,000,000",
+        "Reventue":"35,287,788",
+        "Director" : ["Arne Nolting","Andreas Heckmann"],
+        "Genre" : ["Action & Adventure","Drama"],
+        "Status" : "Released",
+        "Language" : "German",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+    "id":42,
+    "name" : "Transformers: Revenge of the Fallen",
+    "desc" : "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+    "review" : "557",
+    "rating" : "70",
+    "photos":{ "poster" : ["lU6u7gNbUEkclmQpFH3Gqp3J2a1","lU6u7gNbUEkclmQpFH3Gqp3J2a1", "4hYA52a2KAOzZOaOEjfRZIS3J7f","4hYA52a2KAOzZOaOEjfRZIS3J7f","7hHrhVQt7KssDI2uejqHqtIeLVc","6jcxahM7BDAAeKkP4IF8WLFsJ3K", "7hHrhVQt7KssDI2uejqHqtIeLVc","6jcxahM7BDAAeKkP4IF8WLFsJ3K"],
+      "backdrop" : ["gjv8ck2lq11BJAnNW8zVcfo3dNS","gjv8ck2lq11BJAnNW8zVcfo3dNS", "gjv8ck2lq11BJAnNW8zVcfo3dNS","gjv8ck2lq11BJAnNW8zVcfo3dNS","gjv8ck2lq11BJAnNW8zVcfo3dNS","gjv8ck2lq11BJAnNW8zVcfo3dNS"]}
+    ,
+    "background" : "gjv8ck2lq11BJAnNW8zVcfo3dNS",
+    "photo" : "6jcxahM7BDAAeKkP4IF8WLFsJ3K",
+    "info" : {
+      "Released" : "2 October 2016",
+      "Runtime" : "2h 30min",
+      "Director" : "Jason Woliner",
+      "Budget":"200,000,000",
+      "Reventue":"836,303,693",
+      "Genre" : ["Western","Science Fiction"],
+      "Status" : "Released",
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : false,
+    "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+    "id":43,
+    "name" : "SpongeBob SquarePants",
+    "desc" : "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+    "review" : "1,692",
+    "rating" : "81",
+    "photos":{ "poster" : ["oOOx51FktwcwTFro6pC06HGoun3","zDuKxQkG8EemvLdBn43ChdM0MJL", "oOOx51FktwcwTFro6pC06HGoun3","zDuKxQkG8EemvLdBn43ChdM0MJL"],
+      "backdrop" : ["3azfVxy7CuSjXgDeWlty3eiTkBZ"]},
+    "background" : "maFEWU41jdUOzDfRVkojq7fluIm",
+    "photo" : "zDuKxQkG8EemvLdBn43ChdM0MJL",
+    "info" : {
+      "Released" : "8 November 2020",
+      "Runtime" : "60m",
+      "Director" : "Jason Woliner",
+      "Genre" : ["Fantasy","Mystery","Family"],
+      "Status" : "Released",
+      "Episodes":496,
+      "Seasons":1,
+      "Language" : "English",
+      "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+    },
+    "social":{
+      "twitter" : "https://twitter.com/BoratSagdiyev",
+      "facebook": "https://www.facebook.com/TWDWorldBeyond",
+      "link":"https://www.amc.com/shows/the-walking-dead-world-beyond",
+      "instagram" : "https://www.instagram.com/",
+      "imdb" : "https://www.imdb.com/"
+    },
+    "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+    "trending" : false,
+    "display":"Upcoming Movies",
+    "page":"movies"
+    },
+    {
+      "id":44,
+      "name" : "The SpongeBob SquarePants Movie",
+      "desc" : "There's trouble brewing in Bikini Bottom. Someone has stolen King Neptune's crown, and it looks like Mr. Krab, SpongeBob's boss, is the culprit. Though he's just been passed over for the promotion of his dreams, SpongeBob stands by his boss, and along with his best pal Patrick, sets out on a treacherous mission to Shell City to reclaim the crown and save Mr. Krab's life.",
+      "review" : "1,828",
+      "rating" : "82",
+      "photos" : {
+        "poster" : ["6sgo6TCakeL4KFwwcJyvkZ7zhMX","6sgo6TCakeL4KFwwcJyvkZ7zhMX", "3KfJR2jep0CzXQZfRyuN5fJR87A","3KfJR2jep0CzXQZfRyuN5fJR87A","bkWIaqmYIYYTxyJaIZvSAjd4V4S","bkWIaqmYIYYTxyJaIZvSAjd4V4S","bkWIaqmYIYYTxyJaIZvSAjd4V4S"],
+        "backdrop" : ["1l72RMfMjGcV147b0MYCwDwWWkI","qzOYVXKG3FVdW9kQ4pJk4TJzOht", "1l72RMfMjGcV147b0MYCwDwWWkI","qzOYVXKG3FVdW9kQ4pJk4TJzOht","qzOYVXKG3FVdW9kQ4pJk4TJzOht"]
+      },
+      "background" : "yFDeNoSbK1Gof4OtjdzZzuqgO2Q",
+      "photo" : "6sgo6TCakeL4KFwwcJyvkZ7zhMX",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Budget":"30,000,000",
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":45,
+      "name" : "The SpongeBob Movie: Sponge Out of Water",
+      "desc" : "Burger Beard is a pirate who is in search of the final page of a magical book that makes any evil plan he writes in it come true, which happens to be the Krabby Patty secret formula. When the entire city of Bikini Bottom is put in danger, SpongeBob, Patrick, Mr. Krabs, Squidward, Sandy, and Plankton need to go on a quest that takes them to the surface. In order to get back the recipe and save their city, the gang must retrieve the book and transform themselves into superheroes.",
+      "review" : "1,620",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["2WDmjUlSAPlA27i2OwEC7sRTFw3", "pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv"],
+        "backdrop" : ["ftGw1dN7jGPiNNI0i68MdqPqwh3"]
+      },
+      "background" : "ujZT2JkGla5QKpVmTLGpUcRlgX",
+      "photo" : "2WDmjUlSAPlA27i2OwEC7sRTFw3",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    },
+    {
+      "id":46,
+      "name" : "Supernatural",
+      "desc" : "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way.",
+      "review" : "1,620",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["iS7zar0YRMuziFHipxXySt3q1rt", "iS7zar0YRMuziFHipxXySt3q1rt","iS7zar0YRMuziFHipxXySt3q1rt","iS7zar0YRMuziFHipxXySt3q1rt","iS7zar0YRMuziFHipxXySt3q1rt"],
+        "backdrop" : ["rTS409d3GgcPDjdc9ut2khzHDp3","rTS409d3GgcPDjdc9ut2khzHDp3","rTS409d3GgcPDjdc9ut2khzHDp3"]
+      },
+      "background" : "nVRyd8hlg0ZLxBn9RaI7mUMQLnz",
+      "photo" : "KoYWXbnYuS3b0GyQPkbuexlVK9",
+      "info" : {
+        "Released" : "12 November 2020",
+        "Runtime" : "45m",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Drama","Mystery","Sci-Fi & Fantasy"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Now Playing Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":47,
+      "name" : "Overlord",
+      "desc" : "France, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their aircraft crashes while on a mission to destroy a radio tower in a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realise that, in addition to fighting the Nazi troops that patrol the village, they also must fight against something else.",
+      "review" : "1,620",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["wC6EsnymYJVYvJJL6hhpNbjY8GH", "wC6EsnymYJVYvJJL6hhpNbjY8GH","2Sfo3O54kTAAnBfZaCXrwimORSo","2Sfo3O54kTAAnBfZaCXrwimORSo","2Sfo3O54kTAAnBfZaCXrwimORSo","yPauuP2zYKenw8gmtNM7KjNBsO1"],
+        "backdrop" : ["6eodoVKGH4Sv7MnfO0KM19NiI2w","6eodoVKGH4Sv7MnfO0KM19NiI2w","6eodoVKGH4Sv7MnfO0KM19NiI2w"]
+      },
+      "background" : "sHNC8hjAu4ZKXYhG3cp8ghRZ02B",
+      "photo" : "l76Rgp32z2UxjULApxGXAPpYdAP",
+      "info" : {
+        "Released" : "1 November 2018",
+        "Runtime" : "1h 50min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Horror","Animation","Science Fiction"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":48,
+      "name" : "Beowulf & Grendel",
+      "desc" : "The blood-soaked tale of a Norse warrior's battle against the great and murderous troll, Grendel. Heads will roll. Out of allegiance to the King Hrothgar, the much respected Lord of the Danes, Beowulf leads a troop of warriors across the sea to rid a village of the marauding monster.",
+      "review" : "1,620",
+      "rating" : "77",
+      "photos" : {
+        "poster" : ["2y9y88z6RjgtQOjJ0jqCUIskniY", "2y9y88z6RjgtQOjJ0jqCUIskniY","2y9y88z6RjgtQOjJ0jqCUIskniY"],
+        "backdrop" : ["uVb1UFQwNEBCF4rpavi5vrk56CO"]
+      },
+      "background" : "uVb1UFQwNEBCF4rpavi5vrk56CO",
+      "photo" : "2y9y88z6RjgtQOjJ0jqCUIskniY",
+      "info" : {
+        "Released" : "14 September 2005",
+        "Runtime" : "1h 43min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "The Film Works, Icelandic Film Corporation, Union Station Media, Movision, Endgame Entertainment, Téléfilm Canada, Spice Factory"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":49,
+      "name" : "Heroes and Villains",
+      "desc" : "Heroes and Villains was a 2007-2008 BBC Television docudrama series looking at key moments in the lives and reputations of some of the greatest warriors of history. Each hour long episode featured a different historical figure, including Napoleon I of France, Attila the Hun, Spartacus, Hernán Cortés, Richard I of England, and Tokugawa Ieyasu. The statements at the beginning of each episode read: This film depicts real events and real characters. It is based on the accounts of writers of the time. It has been written with the advice of modern historians. In the United States the show is aired on The Military Channel and was called Warriors.",
+      "review" : "1,620",
+      "rating" : "71",
+      "background" : "",
+      "photo" : "WKxygwr3wkg0a6VVjXrSu5IPgx",
+      "info" : {
+        "Released" : "11 November 2007",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Documentary","Drama"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":50,
+      "name" : "The Godfather",
+      "desc" : "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "review" : "12,620",
+      "rating" : "81",
+      "photos" : {
+        "poster" : ["3bhkrj58Vtu7enYsRolD1fZdja1", "3bhkrj58Vtu7enYsRolD1fZdja1","3bhkrj58Vtu7enYsRolD1fZdja1","3bhkrj58Vtu7enYsRolD1fZdja1"],
+        "backdrop" : ["AbgEQO2mneCSOc8CSnOMa8pBS8I"]
+      },
+      "background" : "rSPw7tgCH9c6NqICZef4kZjFOQ5",
+      "photo" : "3bhkrj58Vtu7enYsRolD1fZdja1",
+      "info" : {
+        "Released" : "14 March 1972",
+        "Runtime" : "2h 55min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Drama","Crime"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Top Rated Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":51,
+      "name" : "Howl's Moving Castle",
+      "desc" : "When Sophie, a shy young woman, is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.",
+      "review" : "1,620",
+      "rating" : "91",
+      "photos" : {
+        "poster" : ["wajsLyJkcClIVqds2AlIU9bGmH", "wajsLyJkcClIVqds2AlIU9bGmH","wajsLyJkcClIVqds2AlIU9bGmH"],
+        "backdrop" : ["tqrO5FU1JX4DRLokUOultdr1Pao"]
+      },
+      "background" : "FL8luPKWa1oLQZ4kccIPUEGVVZ",
+      "photo" : "TkTPELv4kC3u1lkloush8skOjE",
+      "info" : {
+        "Released" : "19 November 2004",
+        "Runtime" : "1h 59min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Adventure"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Buena Vista Home Entertainment, DENTSU Music And Entertainment, Mitsubishi, Nippon Television Network Corporation, Studio Ghibli, Tohokushinsha Film Corporation (TFC), Tokuma Shoten, d-rights"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":52,
+      "name" : "Spider-Man: Into the Spider-Verse",
+      "desc" : "Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson Kingpin Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.",
+      "review" : "1,620",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["7usAXeMgdShhJka7iUGsM6uKqKG", "7usAXeMgdShhJka7iUGsM6uKqKG","7usAXeMgdShhJka7iUGsM6uKqKG","aVGDZYISKsiyyGdlX09LPLK01fb"],
+        "backdrop" : ["5mFNmlSTh2ryUM3o8xYlrV98ePo"]
+      },
+      "background" : "aUVCJ0HkcJIBrTJYPnTXta8h9Co",
+      "photo" : "iiZZdoQBEYBv6id8su7ImL0oCbD",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":53,
+      "name" : "The Dark Knight",
+      "desc" : "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "review" : "23,687",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["nW75pjnVcsTJcmxbzZkI5KmDb7A", "qJ2tW6WMUDux911r6m7haRef0WH","qJ2tW6WMUDux911r6m7haRef0WH","qJ2tW6WMUDux911r6m7haRef0WH"],
+        "backdrop" : ["dJD4i4xYkUP5ELuGGzc4B6Fermn"]
+      },
+      "background" : "hkBaDkMWbLaf8B1lsWsKX7Ew3Xq",
+      "photo" : "qJ2tW6WMUDux911r6m7haRef0WH",
+      "info" : {
+        "Released" : "16 July 2008",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Action","Crime","Thriller"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "DC Comics, Legendary Pictures, Syncopy, Isobel Griffiths, DC Entertainment, Warner Bros. Pictures"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":54,
+      "name" : "Hamilton",
+      "desc" : "Presenting the tale of American founding father Alexander Hamilton, this filmed version of the original Broadway smash hit is the story of America then, told by America now.",
+      "review" : "1,920",
+      "rating" : "61",
+      "photos" : {
+        "poster" : ["h1B7tW0t399VDjAcWJh8m87469b", "h1B7tW0t399VDjAcWJh8m87469b","h1B7tW0t399VDjAcWJh8m87469b","h1B7tW0t399VDjAcWJh8m87469b","bV6vaatpxLD0gO4YB1A6bqGlX0b"],
+        "backdrop" : ["xNFgDw3wqvIDC0MQjngIGbFKIrN"]
+      },
+      "background" : "uWVkEo9PWHu9algZsiLPi6sRU64",
+      "photo" : "h1B7tW0t399VDjAcWJh8m87469b",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":55,
+      "name" : "The Godfather: Part II",
+      "desc" : "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "review" : "1,620",
+      "rating" : "71",
+      "photos" : {
+        "poster" : ["hek3koDUyRQk7FIhPXsa6mT2Zc3", "hek3koDUyRQk7FIhPXsa6mT2Zc3","hek3koDUyRQk7FIhPXsa6mT2Zc3","hek3koDUyRQk7FIhPXsa6mT2Zc3","hek3koDUyRQk7FIhPXsa6mT2Zc3"],
+        "backdrop" : ["5P2pI2wjYu7YqDaVRqbsmbDKkXa","5P2pI2wjYu7YqDaVRqbsmbDKkXa","5P2pI2wjYu7YqDaVRqbsmbDKkXa"]
+      },
+      "background" : "poec6RqOKY9iSiIUmfyfPfiLtvB",
+      "photo" : "hek3koDUyRQk7FIhPXsa6mT2Zc3",
+      "info" : {
+        "Released" : "20 December 1974",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":56,
+      "name" : "The Shawshank Redemption",
+      "desc" : "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "review" : "1,620",
+      "rating" : "80",
+      "photos" : {
+        "poster" : ["2WDmjUlSAPlA27i2OwEC7sRTFw3", "pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv","pFNjUmwoPa4Wcwt4sgWh3XOV5kv"],
+        "backdrop" : ["ftGw1dN7jGPiNNI0i68MdqPqwh3"]
+      },
+      "background" : "iNh3BivHyg5sQRPP1KOkzguEX0H",
+      "photo" : "5KCVkau1HEl7ZzfPsKAPM0sMiKc",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Fantasy","Animation","Family"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    }
+    ,{
+      "id":57,
+      "name" : "Klaus",
+      "desc" : "When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.",
+      "review" : "1,620",
+      "rating" : "79",
+      "photos" : {
+        "poster" : ["q125RHUDgR4gjwh1QkfYuJLYkL", "nk1F1cbpekH5Jy7ot4IYXgxWh6G","nk1F1cbpekH5Jy7ot4IYXgxWh6G","nk1F1cbpekH5Jy7ot4IYXgxWh6G","nk1F1cbpekH5Jy7ot4IYXgxWh6G"],
+        "backdrop" : ["ftGw1dN7jGPiNNI0i68MdqPqwh3"]
+      },
+      "background" : "xBD64RBepJDWmGhcxZMiJC9JKRZ",
+      "photo" : "q125RHUDgR4gjwh1QkfYuJLYkL",
+      "info" : {
+        "Released" : "8 November 2019",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Animation","Family","Adventure","Comedy"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    },
+    {
+      "id":58,
+      "name" : "Capernaum",
+      "desc" : "Zain, a 12-year-old boy scrambling to survive on the streets of Beirut, sues his parents for having brought him into such an unjust world, where being a refugee with no documents means that your rights can easily be denied.",
+      "review" : "1,320",
+      "rating" : "52",
+      "photos" : {
+        "poster" : ["f3UAdJC17VMGW7ZKbcayvAwxKRV", "f3UAdJC17VMGW7ZKbcayvAwxKRV","f3UAdJC17VMGW7ZKbcayvAwxKRV","mFnfTVADj8yOxwzprYOmTPselk8","mFnfTVADj8yOxwzprYOmTPselk8"]
+      },
+      "background" : "8e0ETQmrgcP6R8TaVjd7o9NCGj9",
+      "photo" : "mFnfTVADj8yOxwzprYOmTPselk8",
+      "info" : {
+        "Released" : "6 October 2018",
+        "Runtime" : "2h 6min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Animation","Family","Adventure","Comedy"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Boo Pictures, Mooz Films, Cedrus Invest Bank, Clandestino Filmes, Doha Film Institute, KNM Films, Les Films des Tournelles, Louverture Films, Open City Films, Sunnyland Film, The Bridge Production"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    },
+    {
+      "id":59,
+      "name" : "The Lion King",
+      "desc" : "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+      "review" : "13,204 ",
+      "rating" : "89",
+      "photos" : {
+        "poster" : ["zRIram9fBEL3yCMh4gSPwfYpzY", "zRIram9fBEL3yCMh4gSPwfYpzY","2TmgymnxXKPom6QkmHwmouiP3tK","2TmgymnxXKPom6QkmHwmouiP3tK","2TmgymnxXKPom6QkmHwmouiP3tK","sKCr78MXSLixwmZ8DyJLrpMsd15","sKCr78MXSLixwmZ8DyJLrpMsd15"],
+        "backdrop" : ["1dOCAh91v0iClGLDc9TFTDotH6Y","1dOCAh91v0iClGLDc9TFTDotH6Y","1dOCAh91v0iClGLDc9TFTDotH6Y","1dOCAh91v0iClGLDc9TFTDotH6Y"]
+      },
+      "background" : "wXsQvli6tWqja51pYxXNG1LFIGV",
+      "photo" : "sKCr78MXSLixwmZ8DyJLrpMsd15",
+      "info" : {
+        "Released" : "23 June 1994",
+        "Runtime" : "1h 33min",
+        "Director" : "Jason Woliner",
+        "Budget":"74,000,000",
+        "Reventue":"374,218,673",
+        "Genre": ["Animation","Family","Drama"],
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Walt Disney Pictures, Walt Disney Animation Studios"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Popular Movies",
+    "page":"movies"
+    },
+    {
+      "id":60,
+      "name" : "Togo",
+      "desc" : "The untold true story set in the winter of 1925 that takes you across the treacherous terrain of the Alaskan tundra for an exhilarating and uplifting adventure that will test the strength, courage and determination of one man, Leonhard Seppala, and his lead sled dog, Togo.",
+      "review" : "557",
+      "rating" : "70",
+      "photos" : {
+        "poster" : ["921q4gPNN4J6UxvKaw6SCNBe3F8","wX0QD36a80hxulcizz7tyahYOF8", "wX0QD36a80hxulcizz7tyahYOF8","zLMOmTFvxaRIm8qm9ccUJOOVAZH","zLMOmTFvxaRIm8qm9ccUJOOVAZH","zLMOmTFvxaRIm8qm9ccUJOOVAZH","zLMOmTFvxaRIm8qm9ccUJOOVAZH"],
+        "backdrop" : ["4K3GSYoDGJSnRRE5v3p9vhqVadu"]
+      },
+      "background" : "2Jr2OBzoLLOYqQWnyN4eicZv0sL",
+      "photo" : "921q4gPNN4J6UxvKaw6SCNBe3F8",
+      "info" : {
+        "Released" : "19 December 2019",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Walt Disney Pictures, The Walt Disney Company"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":61,
+      "name" : "Piper",
+      "desc" : "A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.",
+      "review" : "1,557",
+      "rating" : "64",
+      "photos" : {
+        "poster" : ["9tzpqQic0VJt4JCAJ5ZGrfs1qWV","bLzs8RpBe4IuNuUlQJjctzwq09G","bLzs8RpBe4IuNuUlQJjctzwq09G","bLzs8RpBe4IuNuUlQJjctzwq09G","bLzs8RpBe4IuNuUlQJjctzwq09G"],
+        "backdrop" : ["ncp5xC9EoFfJSU52DSR5yHFf9YA"]
+      },
+      "background" : "5VntWbNVfT46Yl3UldqS6v1XxG6",
+      "photo" : "bLzs8RpBe4IuNuUlQJjctzwq09G",
+      "info" : {
+        "Released" : "16 June 2016",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":62,
+      "name" : "Remi, Nobody's Boy",
+      "desc" : "The adventures of the young Rémi, an orphan, collected by the gentle Madam Barberin. At the age of 10 years, he is snatched from his adoptive mother and entrusted to the signor Vitalis, a mysterious itinerant musician. Has its sides, he will learn the harsh life of acrobat and sing to win his bread. Accompanied by the faithful dog capi and of the small monkey Joli-Coeur, his long trip through France, made for meetings, friendships and mutual assistance, leads him to the secret of its origins.",
+      "review" : "25.550",
+      "rating" : "80",
+      "photos" : {
+        "poster" : ["mQYXlxlUTmOP4FWt52qkZZb8JNM","2FcsGbtrm3slpH0gKnW2DxXMvEj"]
+      },
+      "background" : "niWafqaduuwvRFh35jjpWtvYuzG",
+      "photo" : "mQYXlxlUTmOP4FWt52qkZZb8JNM",
+      "info" : {
+        "Released" : "30 September 2018",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Romance","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Mars Films, TF1 Studio, TF1 Films Production"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":63,
+      "name" : "Metropolis",
+      "desc" : "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.",
+      "review" : "557",
+      "rating" : "72",
+      "photos" : {
+        "poster" : ["hUK9rewffKGqtXynH5SW3v9hzcu","vODOVn29fr0nLF9MVfpfKDcxuXF", "vODOVn29fr0nLF9MVfpfKDcxuXF","vODOVn29fr0nLF9MVfpfKDcxuXF","vODOVn29fr0nLF9MVfpfKDcxuXF"],
+        "backdrop" : ["ggOPGsKFm52mOMiooMntdATuMeT"]
+      },
+      "background" : "r8pUcom5Mw8igtBpj3AHSAUvH0R",
+      "photo" : "hUK9rewffKGqtXynH5SW3v9hzcu",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":64,
+      "name" : "Joker",
+      "desc" : "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+      "review" : "15,557",
+      "rating" : "95",
+      "photos" : {
+        "poster" : ["udDclJoHjfjb8Ekgsd4FDteOkCU","tfzagTRS9eLEwC3UMmYqiA48D8k", "udDclJoHjfjb8Ekgsd4FDteOkCU","tfzagTRS9eLEwC3UMmYqiA48D8k","tfzagTRS9eLEwC3UMmYqiA48D8k","udDclJoHjfjb8Ekgsd4FDteOkCU","udDclJoHjfjb8Ekgsd4FDteOkCU"],
+        "backdrop" : ["nxt5320P4XdkCaRb99FEmFYfMh3","nxt5320P4XdkCaRb99FEmFYfMh3", "rNqVp7C3ajnxxe6n2151mG8Ttck","rNqVp7C3ajnxxe6n2151mG8Ttck","nxt5320P4XdkCaRb99FEmFYfMh3"]
+      },
+      "background" : "n6bUvigpRFqSwmPp1m2YADdbRBc",
+      "photo" : "udDclJoHjfjb8Ekgsd4FDteOkCU",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":65,
+      "name" : "FBI: Most Wanted",
+      "desc" : "The Fugitive Task Force relentlessly tracks and captures the notorious criminals on the Bureau’s Most Wanted list. Seasoned agent Jess LaCroix oversees the highly skilled team that functions as a mobile undercover unit that is always out in the field, pursuing those who are most desperate to elude justice.",
+      "review" : "1,557",
+      "rating" : "50",
+      "photos" : {
+        "poster" : ["tOzp2EFBmKGGFhmJtDa6Npvpe4P", "tOzp2EFBmKGGFhmJtDa6Npvpe4P","tOzp2EFBmKGGFhmJtDa6Npvpe4P","tOzp2EFBmKGGFhmJtDa6Npvpe4P"],
+        "backdrop" : ["qm0SIujtqq0I4JzfKztJ0Vu1DkD","qm0SIujtqq0I4JzfKztJ0Vu1DkD", "qm0SIujtqq0I4JzfKztJ0Vu1DkD"]
+      },
+      "background" : "tE55HywLgM7fvvlmiMaWPOTjAqc",
+      "photo" : "tOzp2EFBmKGGFhmJtDa6Npvpe4P",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":66,
+      "name" : "The Neighborhood",
+      "desc" : "The nicest guy in the Midwest moves his family into a tough neighborhood in Los Angeles where not everyone appreciates his extreme neighborliness. That includes their new next-door neighbor Calvin.",
+      "review" : "5,537",
+      "rating" : "86",
+      "photos" : {
+        "poster" : ["hEBaGarC4OZkkGNj5Je7TfgRK3Q","hEBaGarC4OZkkGNj5Je7TfgRK3Q", "hEBaGarC4OZkkGNj5Je7TfgRK3Q","hEBaGarC4OZkkGNj5Je7TfgRK3Q"],
+        "backdrop" : ["u14IfvcXGMgm2ATfgjjOu3Hx6mk","u14IfvcXGMgm2ATfgjjOu3Hx6mk", "u14IfvcXGMgm2ATfgjjOu3Hx6mk"]
+      },
+      "background" : "kC5473EP9xFpC6xyncj8YrY3rhc",
+      "photo" : "hEBaGarC4OZkkGNj5Je7TfgRK3Q",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":67,
+      "name" : "EastEnders",
+      "desc" : "The everyday lives of working-class residents of Albert Square, a traditional Victorian square of terrace houses surrounding a park in the East End of London's Walford borough.",
+      "review" : "157",
+      "rating" : "35",
+      "photos" : {
+        "poster" : ["rzfia5PauRCY0NezLhGBpzUjDTy", "rzfia5PauRCY0NezLhGBpzUjDTy","rzfia5PauRCY0NezLhGBpzUjDTy","rzfia5PauRCY0NezLhGBpzUjDTy"],
+        "backdrop" : ["iw5HkF04VP2COmiiguloKkofG1X","iw5HkF04VP2COmiiguloKkofG1X","iw5HkF04VP2COmiiguloKkofG1X"]
+      },
+      "background" : "hUz0UHWSVd6e1g3I6vT4shAsnoY",
+      "photo" : "rzfia5PauRCY0NezLhGBpzUjDTy",
+      "info" : {
+        "Released" : "17 November 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":68,
+      "name" : "Coronation Street",
+      "desc" : "Coronation Street is a British television soap opera first broadcast on Granada Television in 1960. It was soon syndicated on other ITV franchises. The programme concerns the lives of the residents of Coronation Street in Weatherfield, a fictional area of Salford, and centres around its terraced houses, cafe, corner shop, newsagents, textile factory and the Rovers Return pub. The programme was devised in 1960 by local scriptwriter Tony Warren at the recently formed Granada Television in Manchester. Warren's initial kitchen sink drama proposal was rejected by the station's founder Sidney Bernstein but he was persuaded by producer Harry Elton to produce the programme for thirteen pilot episodes. It was first broadcast on 9 December 1960 and within six months had become the most-watched programme on British television. It has been one of the most financially lucrative programmes on British commercial television, underpinning the success of the Granada Television franchise and the broadcaster ITV. Coronation Street is made by Granada Television at Granada Studios in Manchester. It is shown in all ITV regions as well as internationally. On 17 September 2010, it became the world's longest-running TV soap opera in production. Coronation Street is noted for its depiction of a down-to-earth working class community combined with light-hearted humour and strong characters.",
+      "review" : "557",
+      "rating" : "45",
+      "photos" : {
+        "poster" : ["xe6y8SJU0NyGEECu2LV9cXoY81g", "xe6y8SJU0NyGEECu2LV9cXoY81g","xe6y8SJU0NyGEECu2LV9cXoY81g","xe6y8SJU0NyGEECu2LV9cXoY81g"]
+      },
+      "background" : "5APjn4LnV5wWk5DXq7ZewT6zzP1",
+      "photo" : "xe6y8SJU0NyGEECu2LV9cXoY81g",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Currently Airing",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":69,
+      "name" : "Emmerdale",
+      "desc" : "The lives of several families in the Yorkshire Dales revolve around a farm and the nearby village. With murders, affairs, lies, deceit, laughter and tears, it's all there in the village.",
+      "review" : "527",
+      "rating" : "39",
+      "background" : "boPsYdMOZQj6FJy9xXmAkrEK7ry",
+      "photo" : "ualtuRRNYa9Fj61wSuBVcuvaVDP",
+      "info" : {
+        "Released" : "16 October 1972",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":70,
+      "name" : "Small Axe",
+      "desc" : "An anthology series of five stories looking at the lives of a group of friends and their families in London’s West Indian community from the late 1960s to the early 80s.",
+      "review" : "7",
+      "rating" : "65",
+      "photos" : {
+        "poster" : ["3JNQrDBN9KTruOlxIKIDa722iya", "3JNQrDBN9KTruOlxIKIDa722iya","n3JNQrDBN9KTruOlxIKIDa722iya","hrGv1TN5tWpM3n9IMpPPTdzFt57","hrGv1TN5tWpM3n9IMpPPTdzFt57"],
+        "backdrop" : ["4ae0TVxLQVVglH20b6aU0ooHTA6","k1o54MwkeJKgpc6DOOdYyNytoLX", "5c9cNq2wGl53cIVvlUw2ecL9uX0","xYezegGAorlrXgvQYK2W2u2Hq0N","74JbGq58qJrztLkkQirUkqVMiOX"]
+      },
+      "background" : "juaOsnqFNTmQcCtLfdJoS32Ierq",
+      "photo" : "hrGv1TN5tWpM3n9IMpPPTdzFt57",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":71,
+      "name" : "Dead Mountain: The Dyatlov Pass Incident",
+      "desc" : "Russia, 1959. A KGB major investigates the mysterious deaths of a group of nine student hikers in the Ural Mountains. Troubled by his past as a WWII veteran, he has a sixth sense and death seems to follow him around as he digs deeper into the mysterious incident. The more he learns, the more it becomes clear: the reason the students died will never see the light of day.",
+      "photos" : {
+        "poster" : ["7Snbo420M2Xe4X8smooD6F4OaOs","7Snbo420M2Xe4X8smooD6F4OaOs", "7Snbo420M2Xe4X8smooD6F4OaOs","AuWChmTOgUxCdqMULdafRWWcq5G","AuWChmTOgUxCdqMULdafRWWcq5G"]
+      },
+      "background" : "hXJMWQFxIB4rK6ZUOBUX29quXkp",
+      "photo" : "7Snbo420M2Xe4X8smooD6F4OaOs",
+      "info" : {
+        "Released" : "17 November 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":72,
+      "name" : "Murder on Middle Beach",
+      "desc" : "A four-part documentary series revolving around the case of single mother Barbara Hamburg, who was brutally murdered in 2010 near her home in the upper-middle class enclave of Madison, Connecticut. The series presents first-time filmmaker Madison Hamburg’s complicated journey as a young man determined to solve an unspeakable crime and absolve the people he loves, while looking for answers within his fractured family and community.",
+      "review" : "1",
+      "rating" : "53",
+      "photos" : {
+        "poster" : ["j1VQYGEK8GZgqgGT0RrHTjk8NpG","j1VQYGEK8GZgqgGT0RrHTjk8NpG","j1VQYGEK8GZgqgGT0RrHTjk8NpG","j1VQYGEK8GZgqgGT0RrHTjk8NpG"]
+      },
+      "background" : "pwhAKh98IM9S7rS8EmAT5o91raH",
+      "photo" : "j1VQYGEK8GZgqgGT0RrHTjk8NpG",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":73,
+      "name" : "Kikoriki",
+      "desc" : "The Smeshariki are stylized rounded animals. Each of the nine characters has a unique personality and a range of interests with no negative characters among them. Plots are built not on the battle of opposing forces but on the unexpected situations the animated characters stumble upon in their interactions deemed similar to the ones that children may encounter in their everyday lives. Many of the topics foreground the guidance that friendship and community provide to the individual making his or her way in the world. Complex themes and specific cultural references place this cartoon firmly within the Russian tradition of animation. Much attention was devoted to the humor in the series, some of which has attracted adults as well.",
+      "review" : "19",
+      "rating" : "80",
+      "background" : "trRaDnVmmzCxjO1nLUH8Jr8bruk",
+      "photo" : "iryXoTxPSQlYmmvTZuZ9RBWSBCN",
+      "info" : {
+        "Released" : "17 May 2004",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":74,
+      "name" : "Super Wings!",
+      "desc" : "14 years after making a film about his journey across the USA, Borat risks life and limb when he returns to the United States with his young daughter, and reveals more about the culture, the COVID-19 pandemic, and the political elections.",
+      "review" : "557",
+      "rating" : "70",
+      "background" : "vwgC68MFTgrLaTBaXFnsVAb6y1W",
+      "photo" : "lu2DNsIQgn1Jb6djHvrqJSUQXXl",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":75,
+      "name" : "Sesame Street",
+      "desc" : "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "review" : "557",
+      "rating" : "63",
+      "photos" : {
+        "poster" : ["oIvVYBDGMs7FQcalyzRB42dVXu7","jiXAZb7yhxil2UA2F6OmDkOQgpi", "jiXAZb7yhxil2UA2F6OmDkOQgpi","jiXAZb7yhxil2UA2F6OmDkOQgpi","oIvVYBDGMs7FQcalyzRB42dVXu7","oIvVYBDGMs7FQcalyzRB42dVXu7","oIvVYBDGMs7FQcalyzRB42dVXu7"],
+        "backdrop" : ["6gHxMuheZKBFdvZ3Evl0WeHG0ts","6gHxMuheZKBFdvZ3Evl0WeHG0ts", "6gHxMuheZKBFdvZ3Evl0WeHG0ts","sjYOf8K1G6woRHZj8IWi48sNAh8"]
+      },
+      "background" : "zIbkxRfoDXj9cOcQSFjB9yDHwj",
+      "photo" : "oIvVYBDGMs7FQcalyzRB42dVXu7",
+      "info" : {
+        "Released" : "23 October 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    }
+    ,
+    {
+      "id":76,
+      "name" : "Kuruluş Osman",
+      "desc" : "The life of Osman Bey, the son of Ertugrul Gazi and the founder of the Ottoman Empire.",
+      "review" : "1,557",
+      "rating" : "66",
+      "photos" : {
+        "poster" : ["tu4BWsGFHcYDWulZwHxylA91vo0","tu4BWsGFHcYDWulZwHxylA91vo0", "tu4BWsGFHcYDWulZwHxylA91vo0"]
+      },
+      "background" : "d90fj3GmpYexOKa4CmpQnJkuDR3",
+      "photo" : "tu4BWsGFHcYDWulZwHxylA91vo0",
+      "info" : {
+        "Released" : "11 November 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Today",
+    "page":"tv"
+    } ,
+    {
+      "id":77,
+      "name" : "Kuruluş Osman",
+      "desc" : "The life of Osman Bey, the son of Ertugrul Gazi and the founder of the Ottoman Empire.",
+      "review" : "1,557",
+      "rating" : "66",
+      "photos" : {
+        "poster" : ["tu4BWsGFHcYDWulZwHxylA91vo0","tu4BWsGFHcYDWulZwHxylA91vo0", "tu4BWsGFHcYDWulZwHxylA91vo0"]
+      },
+      "background" : "d90fj3GmpYexOKa4CmpQnJkuDR3",
+      "photo" : "tu4BWsGFHcYDWulZwHxylA91vo0",
+      "info" : {
+        "Released" : "11 November 2020",
+        "Runtime" : "1h 36min",
+        "Director" : "Jason Woliner",
+        "Genre" : ["Fantasy","Animation","Family"],
+        "Seasons":4,
+        "Episodes":59,
+        "Status" : "Released",
+        "Language" : "English",
+        "Production" : "Amazon Studios, Four by Two Films, Oak Springs Productions"
+      },
+      "social":{
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "tailer" : "https://www.youtube.com/watch?v=HOwaypo3jC4&app=desktop",
+      "trending" : false,
+      "display":"Top Rated",
+    "page":"tv"
+    }
+  ],
+  "actors":[
+    {
+      "id":0,
+      "name":"Robert Downey Jr.",
+      "character":"Robert Downey Jr.",
+      "desc":"Robert John Downey Jr. (born April 4, 1965) is an American actor and producer. Downey made his screen debut in 1970, at the age of five, when he appeared in his father's film Pound, and has worked consistently in film and television ever since. He received two Academy Award nominations for his roles in films Chaplin (1992) and Tropic Thunder (2008).Downey Jr. is most known for his role in the Marvel Cinematic Universe as Tony Stark/Iron Man. He has appeared as the character in Iron Man (2008), The Incredible Hulk (2008), Iron Man 2 (2010), The Avengers (2012), Iron Man 3 (2013), Avengers: Age of Ultron (2015), Captain America: Civil War (2016), Spider-Man: Homecoming (2017), Avengers: Infinity War (2018), and Avengers: Endgame (2019). The character is the most notable in the Marvel Cinematic Universe, and helped transcend the franchise into the goliath that it is today.",
+      "photo":"im9SAqJPZKEbVZGmjXuLI4O7RvM",
+      "info": {
+        "Known For":"Acting",
+        "Born":"4 April 1965 (age 55)",
+        "Place of Birth":"Manhattan, New York City, New York, USA"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      },
+      "films":["Spider-Man: Homecoming"]
+    },
+    {
+      "id":1,
+      "name":"Dani Popescu",
+      "character":"Robert Downey Jr.",
+      "desc":"Dani Popescu is a Romanian film and theatre actor. He's born in 1969 in Constanta and is married to actress Ada Navrot. He graduated from the University of Theatrical Arts and Cinematography in 1996 and landed his debut role in the 1993 film Un simplu soldat.",
+      "photo":"ok7v0PD8mokTinBfUfQOcuVSAA6",
+      "info": {
+        "Known For":"Acting",
+        "Place of Birth":"Constanța, Romania"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    },
+    {
+      "id":2,
+      "name":"Tom Kenny",
+      "character":"Robert Downey Jr.",
+      "desc":"Thomas James Tom Kenny (born July 13, 1962) is an American actor, voice actor and comedian, noted for his long-running-role as SpongeBob SquarePants in the television series of the same name, as well as the live-action character Patchy the Pirate, Gary the Snail and the French narrator based on Jacques Cousteau. He is also the narrator of Cartoon Network's The Powerpuff Girls. Aside from voice acting, Kenny starred in the short-lived Fox sketch show The Edge, and was a cast member of the HBO sketch comedy program Mr. Show, where he worked with Jill Talley, whom he subsequently married. He currently voices the Ice King in the Cartoon Network animated series Adventure Time with Finn and Jake, and voices additional characters on Scooby-Doo! Mystery Incorporated, another Cartoon Network show. Also in Cosmic Quantum Ray as Quantum Ray. As of 2007, he has also hosted the show Funday Night at the Movies on TCM, which encourages children to watch old movies. Description above from the Wikipedia article Tom Kenny, licensed under CC-BY-SA, full list of contributors on Wikipedia .",
+      "photo":"kftXtExrcoTTjyeYmSXJ0Ogr3R7",
+      "info": {
+        "Known For":"Acting",
+        "Born":"13 July 1962 (age 58)",
+        "Place of Birth":"Syracuse, New York, USA"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    },
+    {
+      "id":3,
+      "name":"Sacha Baron Cohen",
+      "character":"Robert Downey Jr.",
+      "desc":"Sacha Noam Baron Cohen (born 13 October 1971) is a British comedian, actor, and writer. He is most widely known for his portrayal of three unorthodox fictional characters, Ali G, Borat, and Brüno. In his routines, Baron Cohen's characters interact with unsuspecting people who do not realize they are being set up for comic situations and self-revealing ridicule. Baron Cohen's work has been recognised with several Emmy nominations, an Oscar nomination for Best Adapted Screenplay, a BAFTA award, and a Golden Globe for Best Actor for his work in the feature film Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan. After the release of the film Borat, Baron Cohen stated that because the public had become too familiar with the characters, he would retire Borat and Ali G. Similarly, after the release of Brüno, he has stated he would also retire the title character. Description above from the Wikipedia article Sacha Baron Cohen, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+      "photo":"irirhgOX0siCyqvMrt2hoJpXfOG",
+      "info": {
+        "Known For":"Acting",
+        "Born":"13 October 1971 (age 49)",
+        "Place of Birth":"Hammersmith, London, England, UK"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    },
+    {
+      "id":4,
+      "name":"Tom Hanks",
+      "character":"Robert Downey Jr.",
+      "desc":"Thomas Jeffrey Hanks (born July 9, 1956) is an American actor and filmmaker. Known for both his comedic and dramatic roles, Hanks is one of the most popular and recognizable film stars worldwide, and is widely regarded as an American cultural icon.Hanks made his breakthrough with leading roles in the comedies Splash (1984) and Big (1988). He won two consecutive Academy Awards for Best Actor for starring as a gay lawyer suffering from AIDS in Philadelphia (1993) and a young man with below-average IQ in Forrest Gump (1994). Hanks collaborated with film director Steven Spielberg on five films: Saving Private Ryan (1998), Catch Me If You Can (2002), The Terminal (2004), Bridge of Spies (2015), and The Post (2017), as well as the 2001 miniseries Band of Brothers, which launched him as a director, producer, and screenwriter.Hanks' other notable films include the romantic comedies Sleepless in Seattle (1993) and You've Got Mail (1998); the dramas Apollo 13 (1995), The Green Mile (1999), Cast Away (2000), Road to Perdition (2002), and Cloud Atlas (2012); and the biographical dramas Saving Mr. Banks (2013), Captain Phillips (2013), Sully (2016), and A Beautiful Day in the Neighborhood (201. He has also appeared as the title character in the Robert Langdon film series, and has voiced Sheriff Woody in the Toy Story film series.Description above from the Wikipedia article Tom Hanks, licensed under CC-BY-SA, full list of contributors on Wikipedia.",
+      "photo":"xndWFsBlClOJFRdhSt4NBwiPq2o",
+      "info": {
+        "Known For":"Acting",
+        "Born":"9 July 1956 (age 64)",
+        "Place of Birth":"Concord, California, USA"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    },
+    {
+      "id":5,
+      "name":"Mike Pence",
+      "character":"Robert Downey Jr.",
+      "desc":"Michael Richard Mike Pence is the 48th Vice President of the United States under President Donald Trump, having taken office on January 20th, 2017. Prior to his ascension to the vice presidency, he was the 50th Governor of Indiana from 2013 to 2017.",
+      "photo":"xta1slx8B9G4IihElH5mqJuO16r",
+      "info": {
+        "Known For":"Acting",
+        "Born":"7 June 1959 (age 61)",
+        "Place of Birth":"Columbus, Indiana, USA"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    },
+    {
+      "id":6,
+      "name":"Alin Popa",
+      "character":"Robert Downey Jr.",
+      "desc":"Alin Popa Georgian (b. August 15, 1984, Pitesti, Romania) is a Romanian actor, theater and film. His most important role in theater acting was in the play Romeo and Juliet, which plays Tybalt.",
+      "photo":"t3T2HdKhocPqyjyVRuFQj6maSrI",
+      "info": {
+        "Known For":"Acting",
+        "Born":"15 August 1984 (age 36)",
+        "Place of Birth":"Piteşti, Argeş, Romania"
+      },
+      "social":{
+        "facebook":"https://www.facebook.com/robertdowneyjr",
+        "twitter" : "https://twitter.com/BoratSagdiyev",
+        "instagram" : "https://www.instagram.com/",
+        "imdb" : "https://www.imdb.com/"
+      }
+    }
+  ]
+}
