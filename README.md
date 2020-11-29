@@ -1,9 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Live Preview : 
+
+### Tools : 
+#### React.js
+#### Readux / Readux-thunk
+#### React Router
+#### Axois API
+
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
