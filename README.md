@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Live Preview : 
+### Live Preview : https://5fc3e9f5c2e608729e4d32d3--moviesgh.netlify.app
 
 ### Tools : 
 #### React.js
